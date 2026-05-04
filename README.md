@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Endpoint-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Strawberry](https://img.shields.io/badge/Strawberry-GraphQL-FF4785?style=for-the-badge)
+![Strawberry](https://img.shields.io/badge/Strawberry-GraphQL-FF4785?style=for-the-badge&logo=strawberry&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-Tests-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
