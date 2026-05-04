@@ -108,4 +108,4 @@ app.include_router(graphql_app, prefix="/graphql")
 
 @app.get("/")
 def home():
-    return {"message":"Games GraphQL API active"}
+    return {"message":"Games GraphQL API with Pydantic active!"}
