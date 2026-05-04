@@ -1,5 +1,11 @@
 # FastAPI GraphQL Games
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-Endpoint-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Tests-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
 A simple games API built with **FastAPI**, **GraphQL**, **Strawberry**, and **Pydantic**.
 
 This project is meant to practice the main GraphQL concepts: `schema`, `type`, `query`, `mutation`, and `input`, using an in-memory list as storage.
