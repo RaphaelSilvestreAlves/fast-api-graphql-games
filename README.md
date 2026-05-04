@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Endpoint-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Strawberry](https://img.shields.io/badge/Strawberry-GraphQL-FF4785?style=for-the-badge&logo=strawberry&logoColor=white)
+![Strawberry](https://img.shields.io/badge/Strawberry-GraphQL-FF4785?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDIzYy00LjIgMC04LTQuOC04LTEwLjFDNCA4LjggNi41IDYgOS43IDZjMSAwIDEuOC4zIDIuMy44LjUtLjUgMS4zLS44IDIuMy0uOCAzLjIgMCA1LjcgMi44IDUuNyA2LjlDMjAgMTguMiAxNi4yIDIzIDEyIDIzWiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMC42IDUuOEM4LjMgNSA3LjIgMy4yIDcgMWMyLjIuMSA0IDEuMyA0LjggMy40QzEyLjcgMi40IDE0LjUgMS4yIDE3IDFjLS4yIDIuNS0xLjcgNC4yLTQuMSA0LjhsLS45IDEtLjgtMVoiLz48L3N2Zz4=)
 ![Pydantic](https://img.shields.io/badge/Pydantic-Validation-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-Tests-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
