@@ -10,8 +10,8 @@ next_id = 1
 
 class GameModel(BaseModel):
     id: int
-    title: str = Field(..., min_length=1)
-    genre: str = Field(..., min_length=1)
+    title: str = Field(..., min_length=2)
+    genre: str = Field(..., min_length=2)
     completed: bool = False
 
 
